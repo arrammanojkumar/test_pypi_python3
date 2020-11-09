@@ -1,0 +1,10 @@
+Pipfile
+README.rst
+setup.cfg
+setup.py
+tox.ini
+src/test_pypi_python3.egg-info/PKG-INFO
+src/test_pypi_python3.egg-info/SOURCES.txt
+src/test_pypi_python3.egg-info/dependency_links.txt
+src/test_pypi_python3.egg-info/requires.txt
+src/test_pypi_python3.egg-info/top_level.txt
